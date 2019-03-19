@@ -1,0 +1,11 @@
+Author: Slash Nephy <slash@nephy.jp>
+Maintainer: Slash Nephy <slash@nephy.jp>
+Name: Twinkle No Ad
+Package: jp.nephy.twinklenoad
+Depends: mobilesubstrate
+Section: Tweaks
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: [iOS 11] Hide ads in Twinkle.
+Homepage: https://github.com/SlashNephy/TwinkleNoAd
+Tag: purpose::extension
